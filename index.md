@@ -10,44 +10,25 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Fraud Detection
+## Fraud Detection
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-## Header 2
+## NYC-Customer-Request-Analysis
+Service request data analysis of New York City 311 calls. Focus on the data wrangling techniques to understand the pattern in the data and also visualize the major complaint types.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Facial-Recognition
 
-### Header 3
+Facial Recognition with Deep Learning in Keras Using CNN
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Twitter-Hate-Speech-Combat
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*   Twitter Hate Speech Combat Using NLP and Machine Learning
 
-#### Header 4
+## Pet-Classification 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+1.  Model-Using-CNN.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
