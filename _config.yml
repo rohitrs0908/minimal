@@ -1,6 +1,15 @@
 title: <p align="center"> Rohit R Srivastava </p>
-logo: /assets/img/logo1.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+logo: /assets/img/logo2.png
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/94124219b/">LinkedIn</a> |
+  <a href="https://github.com/rohitrs0908">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  I have worked with TataSteel and Simplilearn.
+  <br>
+  </p>
+  
 theme: jekyll-theme-minimal
